@@ -1,0 +1,10 @@
+/* for pseudo classes (for classes we use :and for elements we use ::) */
+
+p::first-letter{
+    font-size: 32px;
+
+}
+p::selection{
+    background: pink;
+    color:blueviolet
+}

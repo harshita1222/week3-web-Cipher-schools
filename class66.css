@@ -1,0 +1,6 @@
+p:last-child{
+    color: blueviolet;
+}
+p:last-of-type{
+    color: brown;
+}

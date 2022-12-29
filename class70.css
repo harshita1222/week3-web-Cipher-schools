@@ -1,0 +1,22 @@
+.cool::before{
+    display: block;
+    content: "hello";
+    color: blueviolet;
+    border: 2px solid purple;
+    margin-bottom: 5px;
+    padding:5px;
+}
+.cool::after{
+    display:block;
+    content:"hello";
+    color:chartreuse;
+    border:1px dotted black;
+    margin-top: 5px;
+    padding:5px;
+}
+.maim-heading::before{
+    content:"hello";
+    color:bisque
+}
+
+/* you cannot used replaced element for before and after like img, br,input */

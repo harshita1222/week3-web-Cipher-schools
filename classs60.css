@@ -1,0 +1,13 @@
+h1{
+    background : bisque;
+    width: 500px;
+    text-align:center;
+}
+a{
+    display: inline-block;
+    width: 500px;
+    background: lavender;
+    text-align: center;
+
+
+}
